@@ -1,0 +1,2 @@
+Notas para la clase de estructuras de datos.
+
